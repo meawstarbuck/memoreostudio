@@ -1,0 +1,9 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "memoreostudio/hugo-theme-gallery"]
+	path = memoreostudio/hugo-theme-gallery
+	url = https://github.com/nicokaiser/hugo-theme-gallery.git
+[submodule "memoreostudio/themes/hugo-profile"]
+	path = memoreostudio/themes/hugo-profile
+	url = https://github.com/gurusabarish/hugo-profile.git

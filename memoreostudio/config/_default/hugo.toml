@@ -1,0 +1,11 @@
+name = 'Memoreo Studio | Photographer in London'
+baseURL = "https://memoreostudio.github.io/"
+title = "Memoreo Studio | London Photographer"
+theme = "hugo-profile"
+languageCode = "en-us"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  

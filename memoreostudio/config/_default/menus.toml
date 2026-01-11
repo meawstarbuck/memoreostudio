@@ -1,0 +1,12 @@
+[[main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[main]]
+    name = "Gallery"
+    url = "/posts/photography-services"
+    weight = 2
+[[main]]
+    name = "Contact"
+    url = "#contact"
+    weight = 3
