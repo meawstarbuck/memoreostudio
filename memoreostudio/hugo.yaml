@@ -1,0 +1,148 @@
+baseURL: "https://memoreostudio.netlify.app"
+languageCode: "en-us"
+title: "Memoreo Studio"
+theme: hugo-profile
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
+enableRobotsTXT: true
+
+pagination:
+  pagerSize: 3
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Menus:
+  main:
+    - identifier: gallery
+      name: Portfolio
+      url: /gallery
+      weight: 1
+    - identifier: services
+      name: Services
+      url: services
+      weight: 2
+
+params:
+  title: "Memoreo Studio"
+  description: "Capture the feeling, keep the memory. London-based Portrait & Lifestyle Photographer"
+  useBootstrapCDN: false
+  mathjax: false
+  animate: true
+
+  navbar:
+    align: ms-auto
+    stickyNavBar:
+      enable : true
+      showOnScrollUp : true
+    enableSeparator: false
+    menus:
+      disableAbout: false
+      disableExperience: false
+      disableEducation: true
+      disableProjects: false
+      disableAchievements: true
+      disableContact: false
+
+  # Hero Section
+  hero:
+    enable: true
+    intro: "Welcome to"
+    title: "Memoreo Studio."
+    subtitle: "Professional Photography & Storytelling in London."
+    content: "Capture the feeling, keep the memory. With Memoreo. <br> **London-based Portrait & Lifestyle Photography Service**"
+    image: /images/emily-photo.jpg
+    bottomImage:
+      enable: true
+
+  # About Section
+  about:
+    enable: true
+    title: "About us"
+    subtitle: "Why Choose Memoreo Studio?"
+    content: |-
+      Finding a photographer in a big city like London can be overwhelming. I aim to make your experience as easy and enjoyable as possible.
+
+      I focus on capturing the genuine emotions and the timeless beauty of London's streets, ensuring your memories are preserved forever with a professional and friendly touch.
+    # skills:
+    #   enable: true
+    #   title: "Our Commitment to You:"
+    #   items:
+    #     - "Tailored Experience: Every shoot is unique and planned around your vision."
+    #     - "Fast & Reliable: Guaranteed 7-day turnaround for all edited shots."
+    #     - "Local Knowledge: Expertise in finding the best spots and times to avoid crowds."
+    #     - "Natural Aesthetic: Focused on authentic smiles and beautiful natural light."
+
+    # Services
+  achievements:
+    enable: true
+    title: "Professional Photography Services in London"
+    items:
+      - title: The Snapshot
+        content: |-
+            1 Hour session. Best for Graduation or Solo portraits at one iconic location. 
+        image: /images/Graduation.jpg
+        url: posts/services
+      - title:  The Londoner
+        content: |-
+            2 Hours session. Perfect for Couples or Pre-wedding shoots across multiple locations 
+        image: /images/wedding.jpg
+        url: posts/services
+      - title:  The Explorer
+        content: |-
+            4 Hours session. Ideal for Family trips or Half-day tours to capture your full London adventure. 
+        image: /images/family.jpg
+        url: posts/services
+      
+    
+
+  # Contact Section
+  contact:
+    enable: true
+    title: "Contact"
+    content: |-
+      Every session is designed to be relaxed, fun, and tailored to your needs. 
+      I know the best "hidden gems" in London to ensure your photos stand out. 
+      My inbox is always open!
+    btnName: Mail me
+    btnLink: mailto:emily.emmimi@gmail.com
+ 
+  footer:
+    socialNetworks:
+      instagram: https://instagram.com/memoreo.studio
+      facebook: https://facebook.com/memoreostudio
+
+  listPages:
+    disableFeaturedImage: false
+
+  singlePages:
+    socialShare: true
+    readTime:
+      enable: true
+      content: "min read"
+    scrollprogress:
+      enable: true
+    tags:
+      openInNewTab: true
+
+  terms:
+    read: "Read"
+    toc: "Table Of Contents"
+    copyright: "All rights reserved"
+    pageNotFound: "Page not found"
+    emailText: "Check out this site"
+
+  datesFormat:
+    article: "Jan 2, 2006"
+    articleList: "Jan 2, 2006"
+    articleRecent: "Jan 2, 2006"

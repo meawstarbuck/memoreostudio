@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Price on Memoreo Studio | London Photographer</title>
+    <title>Price on Memoreo Studio</title>
     <link>http://localhost:1313/tags/price/</link>
-    <description>Recent content in Price on Memoreo Studio | London Photographer</description>
+    <description>Recent content in Price on Memoreo Studio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 18:35:46 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/price/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>London Portfolio</title>
-      <link>http://localhost:1313/posts/photography-services/</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/photography-services/</guid>
-      <description>&lt;h3 id=&#34;recent-works-in-london&#34;&gt;Recent Works in London&lt;/h3&gt;&#xA;&lt;div class=&#34;photo-grid&#34; style=&#34;display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/christmas_market_1.jpg&#34; alt=&#34;London Market 1&#34; style=&#34;width: 100%; border-radius: 8px;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/christmas_market_1.jpg&#34; alt=&#34;London Market 2&#34; style=&#34;width: 100%; border-radius: 8px;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/christmas_market_1.jpg&#34; alt=&#34;London Market 3&#34; style=&#34;width: 100%; border-radius: 8px;&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;booking--rates&#34;&gt;Booking &amp;amp; Rates&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Quick Session:&lt;/strong&gt; £100 (1 Hour)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Standard Session:&lt;/strong&gt; £190 (2 Hours)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Full Delivery:&lt;/strong&gt; All photos delivered via private online gallery within 7 days.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <title>Professional Photography Services in London</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Sat, 18 Jan 2025 18:35:46 +0530</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>&lt;div style=&#34;text-align: center; margin-bottom: 40px;&#34;&gt;&#xA;  &lt;p style=&#34;font-size: 1.2rem; color: #666;&#34;&gt;Every session is designed to be relaxed, fun, and tailored to your needs. I know the best &#34;hidden gems&#34; in London to ensure your photos stand out.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin-bottom: 50px;&#34;&gt;&#xA;  &lt;div style=&#34;border: 1px solid #eee; border-radius: 15px; padding: 30px; text-align: center; transition: 0.3s; box-shadow: 0 4px 15px rgba(0,0,0,0.05); background: #fff;&#34;&gt;&#xA;    &lt;h3 style=&#34;color: #333; margin-top: 0;&#34;&gt;📸 The Snapshot&lt;/h3&gt;&#xA;    &lt;div style=&#34;font-size: 2rem; font-weight: bold; margin: 15px 0;&#34;&gt;£100&lt;/div&gt;&#xA;    &lt;p style=&#34;color: #888; margin-bottom: 20px;&#34;&gt;1 Hour Session&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

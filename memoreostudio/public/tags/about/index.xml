@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Memoreo Studio</title>
+    <link>http://localhost:1313/tags/about/</link>
+    <description>Recent content in About on Memoreo Studio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/posts/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/about/</guid>
+      <description>&lt;h3 id=&#34;why-choose-memoreo-studio&#34;&gt;Why Choose Memoreo Studio?&lt;/h3&gt;&#xA;&lt;p&gt;Finding a photographer in a big city like London can be overwhelming. I aim to make your experience as easy and enjoyable as possible.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tailored Experience:&lt;/strong&gt; Every shoot is unique. We&amp;rsquo;ll chat about your vision and preferred locations before the day.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fast &amp;amp; Reliable:&lt;/strong&gt; I know you’re excited to see your photos! I guarantee a 7-day turnaround for all edited shots.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Local Knowledge:&lt;/strong&gt; I know the best times to avoid crowds at iconic spots like Tower Bridge or Westminster.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Let’s capture your London journey.&lt;/strong&gt;&#xA;&lt;a href=&#34;mailto:emily.emmimi@gmail.com&#34;&gt;Contact Me&lt;/a&gt; | &lt;a href=&#34;https://www.instagram.com/Memoreo.Studio/&#34;&gt;Follow on Instagram&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
