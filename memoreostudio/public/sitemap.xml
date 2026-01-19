@@ -23,12 +23,6 @@
     <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/about/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
   </url>
 </urlset>

@@ -22,15 +22,15 @@ markup:
     renderer:
       unsafe: true
 
-Menus:
+menus:
   main:
     - identifier: gallery
       name: Portfolio
-      url: /gallery
+      url: /gallery/
       weight: 1
     - identifier: services
       name: Services
-      url: /services
+      url: /services/
       weight: 2
 
 params:
@@ -64,26 +64,13 @@ params:
     image: /images/emily-photo.jpg
     bottomImage:
       enable: true
+    button:
+      enable: true
+      name: "View Portfolio"
+      url: "/gallery"
+      newPage: false
 
-  # About Section
-  about:
-    enable: true
-    title: "About us"
-    subtitle: "Why Choose Memoreo Studio?"
-    content: |-
-      Finding a photographer in a big city like London can be overwhelming. I aim to make your experience as easy and enjoyable as possible.
-
-      I focus on capturing the genuine emotions and the timeless beauty of London's streets, ensuring your memories are preserved forever with a professional and friendly touch.
-    # skills:
-    #   enable: true
-    #   title: "Our Commitment to You:"
-    #   items:
-    #     - "Tailored Experience: Every shoot is unique and planned around your vision."
-    #     - "Fast & Reliable: Guaranteed 7-day turnaround for all edited shots."
-    #     - "Local Knowledge: Expertise in finding the best spots and times to avoid crowds."
-    #     - "Natural Aesthetic: Focused on authentic smiles and beautiful natural light."
-
-    # Services
+   # Services
   achievements:
     enable: true
     title: "Professional Photography Services in London"
@@ -103,6 +90,24 @@ params:
             4 Hours session. Ideal for Family trips or Half-day tours to capture your full London adventure. 
         image: /images/family.jpg
         url: posts/services
+
+  # About Section
+  about:
+    enable: true
+    title: "About us"
+    subtitle: "Why Choose Memoreo Studio?"
+    content: |-
+      Finding a photographer in a big city like London can be overwhelming. I aim to make your experience as easy and enjoyable as possible.
+
+      I focus on capturing the genuine emotions and the timeless beauty of London's streets, ensuring your memories are preserved forever with a professional and friendly touch.
+    skills:
+      enable: true
+      title: "Our Commitment to You:"
+      items:
+        - "Tailored Experience: Every shoot is unique and planned around your vision."
+        - "Fast & Reliable: Guaranteed 7-day turnaround for all edited shots."
+        - "Local Knowledge: Expertise in finding the best spots and times to avoid crowds."
+        - "Natural Aesthetic: Focused on authentic smiles and beautiful natural light."
       
     
 
