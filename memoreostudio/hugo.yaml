@@ -39,6 +39,7 @@ params:
   useBootstrapCDN: false
   mathjax: false
   animate: true
+  favicon: "/fav.png"
 
   navbar:
     align: ms-auto
