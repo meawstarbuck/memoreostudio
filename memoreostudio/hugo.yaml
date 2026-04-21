@@ -62,7 +62,7 @@ params:
     title: "Memoreo Studio."
     subtitle: "Professional Photography & Storytelling in London."
     content: "Capture the feeling, keep the memory. With Memoreo. <br> **London-based Portrait & Lifestyle Photography Service**"
-    # image: /images/emily-photo.jpg
+    image: /images/wedding-photo.jpg
     bottomImage:
       enable: true
     button:
