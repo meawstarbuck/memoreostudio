@@ -19,6 +19,7 @@ viewerOptions : {
   <button onclick="filterImages('solo')" class="btn-filter" style="background: #f4f4f4; border: none; padding: 8px 20px; border-radius: 20px; cursor: pointer; margin: 5px;">Solo & Lifestyle</button>
   <button onclick="filterImages('graduation')" class="btn-filter" style="background: #f4f4f4; border: none; padding: 8px 20px; border-radius: 20px; cursor: pointer; margin: 5px;">Graduation</button>
   <button onclick="filterImages('couple')" class="btn-filter" style="background: #f4f4f4; border: none; padding: 8px 20px; border-radius: 20px; cursor: pointer; margin: 5px;">Couple & Wedding</button>
+   <button onclick="filterImages('party')" class="btn-filter" style="background: #f4f4f4; border: none; padding: 8px 20px; border-radius: 20px; cursor: pointer; margin: 5px;">Party & Event</button>
 </div>
 
 {{< gallery-data >}}
