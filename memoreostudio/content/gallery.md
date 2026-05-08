@@ -1,6 +1,6 @@
 ---
 title: "My Portfolio"
-date: 2022-06-25T18:35:46+05:30
+date: 2026-05-08T14:09:11+01:00
 draft: false
 description: "Capture the feeling, keep the memory. With Memoreo. London-based Portrait & Lifestyle Photographer"
 layout: "gallery"

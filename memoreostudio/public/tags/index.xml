@@ -6,6 +6,49 @@
     <description>Recent content in Tags on Memoreo Studio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 08 May 2026 14:14:06 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graduation</title>
+      <link>http://localhost:1313/tags/graduation/</link>
+      <pubDate>Fri, 08 May 2026 14:14:06 +0100</pubDate>
+      <guid>http://localhost:1313/tags/graduation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>London</title>
+      <link>http://localhost:1313/tags/london/</link>
+      <pubDate>Fri, 08 May 2026 14:14:06 +0100</pubDate>
+      <guid>http://localhost:1313/tags/london/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photography</title>
+      <link>http://localhost:1313/tags/photography/</link>
+      <pubDate>Fri, 08 May 2026 14:14:06 +0100</pubDate>
+      <guid>http://localhost:1313/tags/photography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portrait</title>
+      <link>http://localhost:1313/tags/portrait/</link>
+      <pubDate>Fri, 08 May 2026 14:14:06 +0100</pubDate>
+      <guid>http://localhost:1313/tags/portrait/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Price</title>
+      <link>http://localhost:1313/tags/price/</link>
+      <pubDate>Fri, 08 May 2026 14:14:06 +0100</pubDate>
+      <guid>http://localhost:1313/tags/price/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wedding</title>
+      <link>http://localhost:1313/tags/wedding/</link>
+      <pubDate>Fri, 08 May 2026 14:14:06 +0100</pubDate>
+      <guid>http://localhost:1313/tags/wedding/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

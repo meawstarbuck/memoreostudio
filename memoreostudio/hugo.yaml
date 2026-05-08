@@ -28,9 +28,9 @@ menus:
       name: Portfolio
       url: /gallery/
       weight: 1
-    - identifier: services
-      name: Services
-      url: /services/
+    - identifier: Price
+      name: Price
+      url: /#achievements
       weight: 2
 
 params:
@@ -74,23 +74,23 @@ params:
    # Services
   achievements:
     enable: true
-    title: "Professional Photography Services in London"
+    title: "Choose the perfect session for your London story."
     items:
-      - title: The Snapshot
+      - title: Graduation
         content: |-
-            1 Hour session. Best for Graduation or Solo portraits at one iconic location. 
+          Celebrate your academic milestone with a cinematic touch. From iconic campus landmarks to classic London views, I’ll capture your achievement in a way that feels both timeless and personal.
         image: /images/Graduation.jpg
-        url: posts/services
-      - title:  The Londoner
+        url: graduation
+      - title: Portraits
         content: |-
-            2 Hours session. Perfect for Couples or Pre-wedding shoots across multiple locations 
+          Tailored lifestyle sessions designed to reflect your true self. Whether it’s a solo adventure, a couple's story, or family memories, we’ll explore London’s hidden gems to create art out of your everyday moments.
+        image: /images/portrait.jpg
+        url: portrait
+      - title: Wedding 
+        content: |-
+          Timeless storytelling for your most special day. I focus on the raw emotions, candid smiles, and the intimate details of your ceremony, ensuring every chapter of your love story is beautifully preserved.
         image: /images/wedding.jpg
-        url: posts/services
-      - title:  The Explorer
-        content: |-
-            4 Hours session. Ideal for Family trips or Half-day tours to capture your full London adventure. 
-        image: /images/family.jpg
-        url: posts/services
+        url: wedding
 
   # About Section
   about:
@@ -149,6 +149,6 @@ params:
     emailText: "Check out this site"
 
   datesFormat:
-    article: "Jan 2, 2006"
-    articleList: "Jan 2, 2006"
-    articleRecent: "Jan 2, 2006"
+    article: "May 8, 2026"
+    articleList: "May 8, 2026"
+    articleRecent: "May 8, 2026"
