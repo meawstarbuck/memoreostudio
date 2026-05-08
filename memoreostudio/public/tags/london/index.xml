@@ -13,7 +13,7 @@
       <link>http://localhost:1313/services/</link>
       <pubDate>Sat, 18 Jan 2025 18:35:46 +0530</pubDate>
       <guid>http://localhost:1313/services/</guid>
-      <description>&lt;div style=&#34;text-align: center; margin-bottom: 40px;&#34;&gt;&#xA;  &lt;p style=&#34;font-size: 1.2rem; color: #666;&#34;&gt;Every session is designed to be relaxed, fun, and tailored to your needs. I know the best &#34;hidden gems&#34; in London to ensure your photos stand out.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin-bottom: 50px;&#34;&gt;&#xA;  &lt;div style=&#34;border: 1px solid #eee; border-radius: 15px; padding: 30px; text-align: center; transition: 0.3s; box-shadow: 0 4px 15px rgba(0,0,0,0.05); background: #fff;&#34;&gt;&#xA;    &lt;h3 style=&#34;color: #333; margin-top: 0;&#34;&gt;📸 The Snapshot&lt;/h3&gt;&#xA;    &lt;div style=&#34;font-size: 2rem; font-weight: bold; margin: 15px 0;&#34;&gt;£100&lt;/div&gt;&#xA;    &lt;p style=&#34;color: #888; margin-bottom: 20px;&#34;&gt;1 Hour Session&lt;/p&gt;</description>
+      <description>&lt;hr&gt;&#xA;&lt;h3 id=&#34;-every-session-includes&#34;&gt;🌟 Every session includes:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Professional Editing:&lt;/strong&gt; Every delivered photo is color-corrected and retouched in my signature style.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Secure Gallery:&lt;/strong&gt; Delivered via a private online gallery for easy downloading.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;7-Day Turnaround:&lt;/strong&gt; Receive your memories quickly.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
