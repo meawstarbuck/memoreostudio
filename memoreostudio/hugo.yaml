@@ -40,6 +40,8 @@ params:
   mathjax: false
   animate: true
   favicon: "/fav.png"
+  images:
+    - "images/wedding-photo.jpg"
 
   navbar:
     align: ms-auto

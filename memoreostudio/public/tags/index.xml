@@ -30,13 +30,6 @@
       <description></description>
     </item>
     <item>
-      <title>Portrait</title>
-      <link>http://localhost:1313/tags/portrait/</link>
-      <pubDate>Fri, 08 May 2026 14:14:06 +0100</pubDate>
-      <guid>http://localhost:1313/tags/portrait/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Price</title>
       <link>http://localhost:1313/tags/price/</link>
       <pubDate>Fri, 08 May 2026 14:14:06 +0100</pubDate>
@@ -48,6 +41,13 @@
       <link>http://localhost:1313/tags/wedding/</link>
       <pubDate>Fri, 08 May 2026 14:14:06 +0100</pubDate>
       <guid>http://localhost:1313/tags/wedding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portrait</title>
+      <link>http://localhost:1313/tags/portrait/</link>
+      <pubDate>Fri, 08 May 2026 08:35:46 +0530</pubDate>
+      <guid>http://localhost:1313/tags/portrait/</guid>
       <description></description>
     </item>
   </channel>
