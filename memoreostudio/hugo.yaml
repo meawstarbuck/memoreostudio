@@ -41,7 +41,7 @@ params:
   animate: true
   favicon: "/fav.png"
   images:
-    - "images/wedding-photo.jpg"
+    - "images/pre-wedding.jpg"
 
   navbar:
     align: ms-auto

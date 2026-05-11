@@ -1,5 +1,23 @@
 {{ define "head" }}
 <meta name="description" content={{ .Site.Params.description }}>
+
+    <link rel="icon" href="{{ .Site.Params.favicon | absURL }}" type="image/png">
+
+    <meta property="og:image" content="{{ index .Site.Params.images 0 | absURL }}">
+    <meta property="og:title" content="{{ .Title }}">
+    <meta property="og:description" content="{{ .Site.Params.description }}">
+    <meta property="og:image" content="{{ index .Site.Params.images 0 | absURL }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:type" content="website">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ .Title }}">
+    <meta name="twitter:description" content="{{ .Site.Params.description }}">
+    <meta name="twitter:image" content="{{ index .Site.Params.images 0 | absURL }}">
+    <meta name="twitter:image" content="{{ index .Site.Params.images 0 | absURL }}">
+    
+    <meta name="description" content="{{ .Site.Params.description }}">
+
 <link rel="stylesheet" href="{{ .Site.Params.staticPath }}/css/index.css" media="all">
 <link rel="stylesheet" href="{{ .Site.Params.staticPath }}/css/projects.css" media="all">
 
