@@ -33,3 +33,23 @@ memoreostudio/
 ├── static/             # Images, icons, and assets
 ├── hugo.yaml           # Global site configuration
 └── netlify.toml        # Build settings for Netlify
+```
+
+---
+
+## Portfolio Image Import
+Put new photos in `memoreostudio/image`, then run one of these commands from the `memoreostudio/` site folder:
+
+```bash
+node scripts/import-portfolio-images.mjs --category solo --apply
+node scripts/import-portfolio-images.mjs --category party --apply
+node scripts/import-portfolio-images.mjs --category graduation --apply
+```
+
+For couple photos:
+
+```bash
+node scripts/import-portfolio-images.mjs --category couple --apply
+```
+
+Use `--move --apply` instead of just `--apply` if you want to move files out of `image/` instead of copying them.
