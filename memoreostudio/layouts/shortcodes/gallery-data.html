@@ -1,10 +1,24 @@
 <div id="portfolio-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px;">
   {{ range .Site.Data.portfolio }}
+    {{ $item := . }}
+    {{ $path := printf "images/portfolio/%s/%s" .category .name }}
+    {{ $img := resources.Get $path }}
+
     <div class="portfolio-item {{ .category }}">
-      <img src="/images/portfolio/{{ .category }}/{{ .name }}" 
-           alt="{{ .name }}"
-           style="width:100%; height: 350px; object-fit: cover; border-radius:10px;"
-           loading="lazy">
+      {{ with $img }}
+        {{ $optimized := .Resize "1200x jpg q70" }}
+        <img src="{{ $optimized.RelPermalink }}"
+             alt="{{ $item.name }}"
+             style="width:100%; height:350px; object-fit:cover; border-radius:10px;"
+             loading="lazy"
+             decoding="async">
+      {{ else }}
+        <img src="/{{ $path }}"
+             alt="{{ .name }}"
+             style="width:100%; height:350px; object-fit:cover; border-radius:10px;"
+             loading="lazy"
+             decoding="async">
+      {{ end }}
     </div>
   {{ end }}
 </div>
